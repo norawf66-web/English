@@ -1,0 +1,6 @@
+{
+  "name": "五年级英语单词闯关与拼写测试 (2026人教版)",
+  "description": "专为五年级小学生打造的2026人教版PEP英语单词背诵、课后拼写听写测试、趣味闯关游戏与智能错题本系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
